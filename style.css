@@ -1,0 +1,20 @@
+/* Couleur de fond principale */
+body {
+    background-color: #F5F5F5;
+}
+
+/* Couleur du texte principal */
+p, h1, h2, h3, h4, h5, h6 {
+    color: #6F4F37;
+}
+
+/* Accent doré */
+a, .highlight {
+    color: #D4AF37;
+}
+
+/* Couleur secondaire (par exemple, pour les boutons ou éléments secondaires) */
+button, .secondary {
+    background-color: #8B5D3B;
+    color: white;
+}
